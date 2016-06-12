@@ -21,4 +21,4 @@ This plugin can be installed by adding `zgen load unixorn/jpb-screen-utils.zshpl
 
 ### [zplug](https://github.com/b4b4r07/zplug)
 
-This plugins can be installed by adding `zplug "unixorn/jpb-screen-utils.zshplugin"` to your .zshrc file.
+This plugin can be installed by adding `zplug "unixorn/jpb-screen-utils.zshplugin"` to your .zshrc file.
